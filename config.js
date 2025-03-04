@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918293838182', '𝑳𝒖𝒄𝒊𝒁𝑹🤖', true], 
-  ['916296851422', '𝑳𝒖𝒄𝒊𝐙𝐑👾', true],
+  ['4915563151347', '𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻', true], 
+  ['4915562378343', '𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻', true],
   
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "4915562378343" //put your bot number here
 
-global.mods = ['918293838182', '916296851422', '919733377065','916297511083'] 
-global.prems = ['918293838182', '916296851422', '919733377065','916297511083']
-global.allowed = ['918293838182', '916296851422', '919733377065','916297511083']
+global.mods = ['4915563151347', '4915562378343', '919733377065','916297511083'] 
+global.prems = ['4915563151347', '4915562378343', '919733377065','916297511083']
+global.allowed = ['4915563151347', '4915562378343', '919733377065','916297511083']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝑴𝑰𝑨 𝑴𝑫'
+global.botname = '𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻'
 global.premium = 'true'
 global.packname = '𝑳𝒖𝒄𝒊𝒁𝑹' 
 global.author = '@LuciZR' 
@@ -65,7 +65,7 @@ global.fglog = 'MIA.jpg'
 global.thumb = fs.readFileSync('./MIA.jpg')
 
 
-global.wait = '*🕣 _𝑴𝑰𝑨 𝑰𝑺 𝑳𝑶𝑫𝑰𝑵𝑮....Ꙭ_*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐 𝑰𝑺 𝑳𝑶𝑫𝑰𝑵𝑮....Ꙭ_*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
